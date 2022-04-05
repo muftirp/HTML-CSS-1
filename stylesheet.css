@@ -18,7 +18,7 @@ a {
   text-decoration: none;
 }
 
-/* Ketik code Anda dibawah */
+/* Ketik code Anda dibaris bawah */
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
@@ -175,3 +175,18 @@ header {
   top: 7px;
   box-shadow: none;
 }
+
+footer img {
+  width: 124px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+}
+
+
